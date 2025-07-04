@@ -1,5 +1,5 @@
 #alif{
-      width: 250px; /* you can adjust */
+      width: 320px; /* you can adjust */
       height: auto;
       border-radius: 12px;
       box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
@@ -114,9 +114,11 @@
     justify-content: center;
     align-items: center;
     margin: 0px 20px 20px 20px;
-    padding: 0px 20px 20px 20px;
-    gap: 80px;
+   
+    gap: 90px;
     font-size: 30px;
+    width: auto;
+    text-align: justify;
    }
    button{
     background-color: rgb(0, 255, 55);
@@ -141,6 +143,6 @@
    #back1{
     color: rgb(0, 255, 55);
     text-align: right;
-    margin-right: 400px;
+    margin-right: 420px;
     gap: 20px;
    }
